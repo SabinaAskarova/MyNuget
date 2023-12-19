@@ -11,7 +11,9 @@
         {
             return number1 - number2;
         }
-
+        /// <summary>
+        /// Know me
+        /// </summary>
         public static void AboutMe()
         {
             Console.WriteLine("Hi, My Name is Sabina! I am .Net developer...");
